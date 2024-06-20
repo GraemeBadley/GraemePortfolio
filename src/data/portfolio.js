@@ -8,7 +8,7 @@ export default[
     {
         title: 'Dictionary App',
         img: '',
-        stack: ['HTML','CSS','Javascript','React.js'],
+        stack: ['HTML','CSS','Javascript','React.js','C#', 'SQL'],
         link: '',
     },
     {
